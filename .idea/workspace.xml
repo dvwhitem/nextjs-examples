@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8d2bd17-4b8b-43af-8490-192d78184d68" name="Changes" comment="" />
+    <list default="true" id="e8d2bd17-4b8b-43af-8490-192d78184d68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/vitaliy/Programming/WebStormProjects/nextjs-examples",
+    "last_opened_file_path": "/home/vitaliy/Programming/WebStormProjects/thefront-main/nextjs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +53,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695904012991</updated>
-      <workItem from="1695904014775" duration="4308000" />
+      <workItem from="1695904014775" duration="4583000" />
+      <workItem from="1695966003850" duration="620000" />
+      <workItem from="1697706379214" duration="341000" />
     </task>
     <servers />
   </component>
